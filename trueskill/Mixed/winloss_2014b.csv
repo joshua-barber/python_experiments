@@ -1,0 +1,172 @@
+,Unnamed: 0,Winteam,Lossteam,IsDraw
+0,0,Shenton Park Speed Dealers,Karrakatta Grim Jobs,False
+1,1,Floreat Flamingos,Karrinyup Bandits,False
+2,2,GMLA Guardians,GMLA Angels,False
+3,3,South Perth Puckaneers,Bicton Bath Salts,False
+4,4,Bicton Banter Lords,Melville Massiv,False
+5,5,Ocean Beef,Mullaloozers,True
+6,6,Dianella Demons,Greenmount Doom,False
+7,7,Innaloo Pinguz,Scarbra Streisands,True
+8,8,Brentwood Bushchooks,Mosman Park Milkmen,False
+9,9,Mindarie Molotovs,Hillarys Humpbacks,False
+10,10,Parkwood Benders,Willo Wonkas,False
+11,11,Maylands Muthapuckas,Perth Glory-Holerz,False
+12,12,Como Mo Co,Gravel Road GrindRs,False
+13,13,GMLA Jurassic Pucks,Inglewood Coldcuts,False
+14,14,Claremont Cereal Killahs,Creepy Crawleys,False
+15,15,Mt Pleasant Mounties,Hungry Spot Heroes,False
+16,16,North Perth Bald Beavers,Dog Swamp Swamp Dogs,False
+17,17,Churchlands Hellraisers,Cottesloe Clam Hunters,False
+18,18,Innaloominati,Gravel Road GrindRs,False
+19,19,Subiaco Silkworms,Freo Fussy Puckers,False
+20,20,Whitfords City Wristies,Freo Fussy Puckers,False
+21,21,Brentwood Bushchooks,Parkwood Benders,False
+22,22,Mosman Park Milkmen,Cottesloe Clam Hunters,False
+23,23,Doubleview Double Yewws,Churchlands Hellraisers,False
+24,24,GMLA Guardians,Scarbra Streisands,False
+25,25,Mindarie Molotovs,Innaloo Pinguz,False
+26,26,Floreat Flamingos,Hillarys Humpbacks,False
+27,27,Greenmount Doom,GMLA Angels,False
+28,28,Willo Wonkas,Kensington Kermits,False
+29,29,Bicton Banter Lords,Mt Pleasant Mounties,False
+30,30,South Perth Puckaneers,Claremont Cereal Killahs,False
+31,31,Karrinyup Bandits,Ocean Beef,False
+32,32,Dianella Demons,North Perth Bald Beavers,False
+33,33,Dog Swamp Swamp Dogs,Hungry Spot Heroes,False
+34,34,Mullaloozers,Maylands Muthapuckas,False
+35,35,Innaloominati,GMLA Jurassic Pucks,False
+36,36,Karrakatta Grim Jobs,Bicton Bath Salts,False
+37,37,Shenton Park Speed Dealers,Creepy Crawleys,False
+38,38,Perth Glory-Holerz,Inglewood Coldcuts,False
+39,39,Como Mo Co,Melville Massiv,False
+40,40,Mindarie Molotovs,Scarbra Streisands,False
+41,41,Brentwood Bushchooks,Como Mo Co,False
+42,42,Parkwood Benders,Whitfords City Wristies,False
+43,43,GMLA Guardians,Innaloo Pinguz,False
+44,44,Churchlands Hellraisers,Floreat Flamingos,False
+45,45,Bicton Banter Lords,Kensington Kermits,False
+46,46,Karrinyup Bandits,Willo Wonkas,True
+47,47,Cottesloe Clam Hunters,Hillarys Humpbacks,False
+48,48,Doubleview Double Yewws,Greenmount Doom,False
+49,49,West Leederville Wobbegongs,South Perth Puckaneers,False
+50,50,Dianella Demons,Claremont Cereal Killahs,False
+51,51,Shenton Park Speed Dealers,Mt Pleasant Mounties,False
+52,52,Maylands Muthapuckas,Hungry Spot Heroes,False
+53,53,North Perth Bald Beavers,Ocean Beef,False
+54,54,Gravel Road GrindRs,Freo Fussy Puckers,False
+55,55,Inglewood Coldcuts,Innaloominati,False
+56,56,Creepy Crawleys,Mullaloozers,False
+57,57,Melville Massiv,Karrakatta Grim Jobs,False
+58,58,Subiaco Silkworms,Perth Glory-Holerz,False
+59,59,Bicton Bath Salts,GMLA Jurassic Pucks,False
+60,60,Scarbra Streisands,Whitfords City Wristies,False
+61,61,Bicton Banter Lords,Como Mo Co,False
+62,62,Doubleview Double Yewws,Cottesloe Clam Hunters,False
+63,63,Greenmount Doom,Floreat Flamingos,False
+64,64,Hillarys Humpbacks,Karrinyup Bandits,False
+65,65,GMLA Angels,Willo Wonkas,False
+66,66,West Leederville Wobbegongs,Churchlands Hellraisers,True
+67,67,Dianella Demons,Dog Swamp Swamp Dogs,False
+68,68,Maylands Muthapuckas,Claremont Cereal Killahs,True
+69,69,South Perth Puckaneers,North Perth Bald Beavers,False
+70,70,Shenton Park Speed Dealers,Ocean Beef,False
+71,71,Kensington Kermits,GMLA Jurassic Pucks,False
+72,72,Mt Pleasant Mounties,Melville Massiv,False
+73,73,Creepy Crawleys,Subiaco Silkworms,False
+74,74,Bicton Bath Salts,Freo Fussy Puckers,False
+75,75,Mullaloozers,Inglewood Coldcuts,False
+76,76,Karrakatta Grim Jobs,Gravel Road GrindRs,False
+77,77,Innaloominati,Perth Glory-Holerz,False
+78,78,GMLA Guardians,Mosman Park Milkmen,False
+79,79,Parkwood Benders,Como Mo Co,False
+80,80,Scarbra Streisands,Churchlands Hellraisers,False
+81,81,Greenmount Doom,Mindarie Molotovs,False
+82,82,Karrinyup Bandits,Doubleview Double Yewws,False
+83,83,Dianella Demons,Hillarys Humpbacks,False
+84,84,Mt Pleasant Mounties,Kensington Kermits,False
+85,85,Bicton Banter Lords,Floreat Flamingos,False
+86,86,GMLA Angels,Claremont Cereal Killahs,False
+87,87,Hungry Spot Heroes,North Perth Bald Beavers,False
+88,88,Dog Swamp Swamp Dogs,Karrakatta Grim Jobs,False
+89,89,Cottesloe Clam Hunters,West Leederville Wobbegongs,False
+90,90,Ocean Beef,Whitfords City Wristies,False
+91,91,Willo Wonkas,South Perth Puckaneers,True
+92,92,Maylands Muthapuckas,Innaloominati,False
+93,93,Shenton Park Speed Dealers,Bicton Bath Salts,False
+94,94,Gravel Road GrindRs,GMLA Jurassic Pucks,False
+95,95,Melville Massiv,Inglewood Coldcuts,False
+96,96,Mullaloozers,Subiaco Silkworms,False
+97,97,Creepy Crawleys,Freo Fussy Puckers,False
+98,98,Brentwood Bushchooks,Bicton Banter Lords,False
+99,99,GMLA Guardians,Doubleview Double Yewws,True
+100,100,Mosman Park Milkmen,Floreat Flamingos,False
+101,101,Greenmount Doom,Parkwood Benders,False
+102,102,Scarbra Streisands,Hillarys Humpbacks,False
+103,103,Karrinyup Bandits,West Leederville Wobbegongs,False
+104,104,Willo Wonkas,Dog Swamp Swamp Dogs,True
+105,105,Ocean Beef,Perth Glory-Holerz,False
+106,106,Freo Fussy Puckers,Kensington Kermits,True
+107,107,Cottesloe Clam Hunters,Dianella Demons,False
+108,108,Churchlands Hellraisers,Innaloo Pinguz,False
+109,109,Whitfords City Wristies,Mullaloozers,False
+110,110,Mindarie Molotovs,Claremont Cereal Killahs,False
+111,111,Shenton Park Speed Dealers,Subiaco Silkworms,True
+112,112,Como Mo Co,Creepy Crawleys,False
+113,113,GMLA Angels,Inglewood Coldcuts,False
+114,114,Mt Pleasant Mounties,South Perth Puckaneers,False
+115,115,Hungry Spot Heroes,Melville Massiv,False
+116,116,North Perth Bald Beavers,Innaloominati,False
+117,117,Karrakatta Grim Jobs,Maylands Muthapuckas,False
+118,118,Bicton Bath Salts,Gravel Road GrindRs,False
+119,119,Scarbra Streisands,Parkwood Benders,False
+120,120,Bicton Banter Lords,Mosman Park Milkmen,False
+121,121,Brentwood Bushchooks,Karrinyup Bandits,False
+122,122,Greenmount Doom,Churchlands Hellraisers,False
+123,123,West Leederville Wobbegongs,Dianella Demons,False
+124,124,Hillarys Humpbacks,Gravel Road GrindRs,False
+125,125,Cottesloe Clam Hunters,Shenton Park Speed Dealers,False
+126,126,Como Mo Co,GMLA Angels,False
+127,127,Mt Pleasant Mounties,Willo Wonkas,False
+128,128,Dog Swamp Swamp Dogs,Whitfords City Wristies,False
+129,129,Floreat Flamingos,Ocean Beef,False
+130,130,Kensington Kermits,South Perth Puckaneers,False
+131,131,Maylands Muthapuckas,Bicton Bath Salts,True
+132,132,Claremont Cereal Killahs,North Perth Bald Beavers,False
+133,133,Hungry Spot Heroes,Creepy Crawleys,False
+134,134,Subiaco Silkworms,Inglewood Coldcuts,False
+135,135,Karrakatta Grim Jobs,Mullaloozers,False
+136,136,Melville Massiv,Freo Fussy Puckers,False
+137,137,Perth Glory-Holerz,GMLA Jurassic Pucks,False
+138,138,Bicton Bath Salts,Bicton Banter Lords,False
+139,139,Brentwood Bushchooks,Mt Pleasant Mounties,False
+140,140,Churchlands Hellraisers,Hungry Spot Heroes,False
+141,141,Cottesloe Clam Hunters,Claremont Cereal Killahs,False
+142,142,Como Mo Co,South Perth Puckaneers,False
+143,143,Creepy Crawleys,Inglewood Coldcuts,False
+144,144,Karrinyup Bandits,Dianella Demons,False
+145,145,Dog Swamp Swamp Dogs,Freo Fussy Puckers,False
+146,146,Doubleview Double Yewws,Shenton Park Speed Dealers,False
+147,147,Mindarie Molotovs,Floreat Flamingos,False
+148,148,GMLA Guardians,Maylands Muthapuckas,False
+149,149,Karrakatta Grim Jobs,GMLA Jurassic Pucks,False
+150,150,Kensington Kermits,Gravel Road GrindRs,True
+151,151,Greenmount Doom,Whitfords City Wristies,False
+152,152,Hillarys Humpbacks,North Perth Bald Beavers,False
+153,153,Melville Massiv,Innaloominati,False
+154,154,Scarbra Streisands,Mosman Park Milkmen,False
+155,155,Mullaloozers,Perth Glory-Holerz,False
+156,156,Ocean Beef,Subiaco Silkworms,False
+157,157,GMLA Guardians,Bicton Banter Lords,False
+158,158,Mt Pleasant Mounties,Bicton Bath Salts,False
+159,159,Karrinyup Bandits,Churchlands Hellraisers,False
+160,160,Karrakatta Grim Jobs,Claremont Cereal Killahs,False
+161,161,Cottesloe Clam Hunters,Ocean Beef,False
+162,162,Creepy Crawleys,GMLA Jurassic Pucks,False
+163,163,Freo Fussy Puckers,Inglewood Coldcuts,False
+164,164,Whitfords City Wristies,Floreat Flamingos,False
+165,165,Greenmount Doom,Willo Wonkas,False
+166,166,Mullaloozers,Hungry Spot Heroes,False
+167,167,Mindarie Molotovs,Parkwood Benders,False
+168,168,Subiaco Silkworms,North Perth Bald Beavers,False
+169,169,Mosman Park Milkmen,Maylands Muthapuckas,False
+170,170,Como Mo Co,Hillarys Humpbacks,False

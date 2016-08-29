@@ -1,0 +1,103 @@
+,Team,Rating,mu,sigma
+0,perth glory-holerz,"trueskill.Rating(mu=18.270, sigma=8.333)",18.26951721232982,8.333333333333334
+1,innaloo pinguz,"trueskill.Rating(mu=20.003, sigma=8.333)",20.002770370602626,8.333333333333334
+2,south perth major blazers,"trueskill.Rating(mu=22.730, sigma=2.893)",22.729702447934788,2.8928849775777463
+3,gmla jurassic pucks,"trueskill.Rating(mu=17.670, sigma=2.889)",17.67030101292948,2.8886072044297633
+4,mullaloozers,"trueskill.Rating(mu=28.429, sigma=3.086)",28.42857677228668,3.086244692050933
+5,ussr,"trueskill.Rating(mu=8.689, sigma=3.116)",8.689478820203632,3.116200333145976
+6,dianella demons,"trueskill.Rating(mu=29.472, sigma=3.158)",29.47190598264358,3.1582753674941735
+7,mt pleasant mounties,"trueskill.Rating(mu=36.118, sigma=3.047)",36.11756454216768,3.047458081833217
+8,shenton park speed dealers,"trueskill.Rating(mu=19.682, sigma=8.333)",19.682450001267732,8.333333333333334
+9,k-town cooks,"trueskill.Rating(mu=30.770, sigma=2.750)",30.769657021277816,2.749746398689809
+10,west leederville wobbegongs,"trueskill.Rating(mu=26.873, sigma=8.333)",26.872608463072449,8.333333333333334
+11,cotteslowbros,"trueskill.Rating(mu=24.826, sigma=8.333)",24.826358315126157,8.333333333333334
+12,applecross dressers,"trueskill.Rating(mu=14.521, sigma=8.333)",14.521447653441381,8.333333333333334
+13,swan view sharks,"trueskill.Rating(mu=22.457, sigma=3.099)",22.457039203210105,3.0988753668314857
+14,murray street tramps,"trueskill.Rating(mu=20.614, sigma=2.700)",20.613509201477545,2.7003628627884644
+15,mt lawley chai lattes,"trueskill.Rating(mu=17.498, sigma=2.957)",17.497770724355245,2.957335300689512
+16,inglewood coldcuts,"trueskill.Rating(mu=22.041, sigma=2.837)",22.04116412544839,2.836661090236004
+17,ocean beef,"trueskill.Rating(mu=38.700, sigma=3.179)",38.700411730931634,3.1789503646038946
+18,perth on heat,"trueskill.Rating(mu=24.034, sigma=8.333)",24.034296474483771,8.333333333333334
+19,manning manchilds,"trueskill.Rating(mu=21.616, sigma=2.800)",21.615808367772175,2.7995789409371343
+20,maylands muthapuckas,"trueskill.Rating(mu=34.106, sigma=3.179)",34.1064150676254,3.1786467447865476
+21,yokine reservoir dogs,"trueskill.Rating(mu=27.570, sigma=2.766)",27.570049096326045,2.7661185536699966
+22,brentwood bushchooks,"trueskill.Rating(mu=40.001, sigma=8.333)",40.001318578479193,8.333333333333334
+23,st james addictions,"trueskill.Rating(mu=25.687, sigma=2.835)",25.687156322197943,2.8345063297593907
+24,bicton four'n twenty,"trueskill.Rating(mu=20.953, sigma=3.247)",20.95250326562271,3.246834194526217
+25,greenmount doom,"trueskill.Rating(mu=27.441, sigma=3.384)",27.44142647647678,3.3843242832915963
+26,daglish dhe moisties,"trueskill.Rating(mu=35.961, sigma=2.982)",35.960609188748165,2.9820782170798843
+27,rocko rodents,"trueskill.Rating(mu=14.245, sigma=2.936)",14.24517492455368,2.935962557331042
+28,floreat flamingos,"trueskill.Rating(mu=20.390, sigma=8.333)",20.389894140451528,8.333333333333334
+29,scarborough scar bros,"trueskill.Rating(mu=23.115, sigma=2.893)",23.11546524583281,2.893113902716718
+30,dalkeith dalqueefs,"trueskill.Rating(mu=26.553, sigma=2.743)",26.552702823587033,2.743473699322625
+31,gmla angels,"trueskill.Rating(mu=23.058, sigma=3.082)",23.05777855992505,3.082362274102097
+32,cottesloe's hottest hoes,"trueskill.Rating(mu=17.175, sigma=8.333)",17.175114512398892,8.333333333333334
+33,bull creek buttchuggers,"trueskill.Rating(mu=19.712, sigma=2.967)",19.712132432917475,2.967271254182715
+34,chick park,"trueskill.Rating(mu=20.301, sigma=8.333)",20.301203074698488,8.333333333333334
+35,south perth shakas,"trueskill.Rating(mu=22.024, sigma=2.745)",22.02401827872474,2.7450955730037867
+36,heathcote hangers,"trueskill.Rating(mu=30.577, sigma=2.818)",30.576977667339488,2.8184806125055326
+37,wembley blue light discos,"trueskill.Rating(mu=24.085, sigma=2.610)",24.08530421828697,2.609806082829413
+38,south perth puckaneers,"trueskill.Rating(mu=18.991, sigma=8.333)",18.991344876388887,8.333333333333334
+39,hungry spot heroes,"trueskill.Rating(mu=21.792, sigma=3.086)",21.792266774544238,3.08580440258721
+40,lake mongrels,"trueskill.Rating(mu=25.779, sigma=2.713)",25.778704010314623,2.71343487714845
+41,cottesloe cowards,"trueskill.Rating(mu=29.174, sigma=5.744)",29.173508417385875,5.743546545885981
+42,swanbourne nudists,"trueskill.Rating(mu=22.795, sigma=2.795)",22.795284687587184,2.795349896244779
+43,hydepark hacks,"trueskill.Rating(mu=26.497, sigma=2.925)",26.49662668596556,2.92463253315623
+44,karrakatta grim jobs,"trueskill.Rating(mu=35.035, sigma=3.037)",35.03521285197947,3.0370483723118076
+45,creepy crawleys,"trueskill.Rating(mu=23.973, sigma=2.636)",23.972845132157495,2.635851832791907
+46,mosmanonymous,"trueskill.Rating(mu=9.797, sigma=3.024)",9.796549317208395,3.0235712236191383
+47,west coast spastic eagles,"trueskill.Rating(mu=17.718, sigma=2.821)",17.717821436458635,2.821413433168786
+48,wembley food caughts,"trueskill.Rating(mu=29.115, sigma=8.333)",29.115264699757986,8.333333333333334
+49,kensington kermits,"trueskill.Rating(mu=34.444, sigma=3.328)",34.44393828836497,3.327883756719669
+50,mosman park milkmen,"trueskill.Rating(mu=25.650, sigma=8.333)",25.650328250376898,8.333333333333334
+51,get bentley,"trueskill.Rating(mu=11.999, sigma=2.929)",11.999120843278748,2.928550949787101
+52,leederphiles rolferhockey,"trueskill.Rating(mu=23.550, sigma=3.011)",23.54958701864818,3.011068076188575
+53,whorebin grovers,"trueskill.Rating(mu=18.018, sigma=2.907)",18.017539986145824,2.907421848892467
+54,rosemount rinsers,"trueskill.Rating(mu=30.518, sigma=3.053)",30.517714766383005,3.053168481117513
+55,claremont cereal killahs,"trueskill.Rating(mu=26.185, sigma=3.032)",26.18548565067736,3.031943211849857
+56,hillarys humpbacks,"trueskill.Rating(mu=27.376, sigma=3.037)",27.37574059546377,3.036919629035607
+57,karrinyup bandits,"trueskill.Rating(mu=29.301, sigma=8.333)",29.300567206295892,8.333333333333334
+58,scarbra streisands,"trueskill.Rating(mu=28.807, sigma=8.333)",28.807246086019248,8.333333333333334
+59,salter point shooters,"trueskill.Rating(mu=23.893, sigma=2.824)",23.893360621837108,2.8236959252222356
+60,doubleview double yewws,"trueskill.Rating(mu=26.625, sigma=2.977)",26.625352852380022,2.9774177455078545
+61,booragoonbags,"trueskill.Rating(mu=18.411, sigma=8.333)",18.410902662447967,8.333333333333334
+62,balcatta bandits,"trueskill.Rating(mu=49.509, sigma=3.997)",49.50885342328098,3.9965892843488957
+63,bicton banter lords,"trueskill.Rating(mu=36.987, sigma=2.963)",36.98686724065492,2.962965907360658
+64,booragoonbagz,"trueskill.Rating(mu=15.824, sigma=2.761)",15.824325118961408,2.7612867995352874
+65,north perth bald beavers,"trueskill.Rating(mu=22.491, sigma=2.849)",22.491321301232478,2.848513806816667
+66,highgate hommus-sexuals,"trueskill.Rating(mu=30.703, sigma=3.029)",30.70258773481925,3.0294751020190644
+67,mosman mooseknuckles,"trueskill.Rating(mu=35.583, sigma=2.839)",35.58268932508224,2.838976386706532
+68,cottesloe clam hunters,"trueskill.Rating(mu=32.010, sigma=8.333)",32.009850254874038,8.333333333333334
+69,dog swamp swamp dogs,"trueskill.Rating(mu=22.682, sigma=2.903)",22.681700816863113,2.9028515160419697
+70,como at me bro,"trueskill.Rating(mu=15.950, sigma=3.262)",15.95006286420833,3.2621088633147197
+71,morning brentwood,"trueskill.Rating(mu=35.997, sigma=3.139)",35.99665203919501,3.1389900064477936
+72,gravel road grindrs,"trueskill.Rating(mu=18.198, sigma=8.333)",18.198372139359414,8.333333333333334
+73,nedlands yung puccbois,"trueskill.Rating(mu=23.282, sigma=8.333)",23.281559151726228,8.333333333333334
+74,mindarie molotovs,"trueskill.Rating(mu=40.456, sigma=3.071)",40.45612050220891,3.0709211010136537
+75,50 shades of graylands,"trueskill.Rating(mu=23.540, sigma=2.779)",23.539910687054945,2.779225999654236
+76,bicton bath salts,"trueskill.Rating(mu=18.808, sigma=3.102)",18.80847096710851,3.1019885862183205
+77,city beach kooks,"trueskill.Rating(mu=17.531, sigma=3.029)",17.531478834625993,3.0291352033876877
+78,freo fussy puckers,"trueskill.Rating(mu=24.970, sigma=8.333)",24.970345416699857,8.333333333333334
+79,attafail whales,"trueskill.Rating(mu=10.840, sigma=8.333)",10.840135648764713,8.333333333333334
+80,mount lawless,"trueskill.Rating(mu=37.967, sigma=3.048)",37.96663314481077,3.048084282740056
+81,wilson castaways,"trueskill.Rating(mu=18.217, sigma=2.834)",18.216689901850234,2.8343569017465193
+82,willo wonkas,"trueskill.Rating(mu=27.744, sigma=8.333)",27.744266173645038,8.333333333333334
+83,morley puck troopers,"trueskill.Rating(mu=35.644, sigma=3.097)",35.643912694787964,3.097105421738285
+84,gmla guardians,"trueskill.Rating(mu=37.378, sigma=3.149)",37.377639247421975,3.149476263601575
+85,west stirling banjo breakers,"trueskill.Rating(mu=36.594, sigma=3.051)",36.59401433491065,3.0514670741855303
+86,wembley food courts,"trueskill.Rating(mu=26.806, sigma=2.953)",26.805617346916947,2.95301059995534
+87,parkwood benders,"trueskill.Rating(mu=25.659, sigma=8.333)",25.658692796671453,8.333333333333334
+88,melville massiv,"trueskill.Rating(mu=36.184, sigma=3.112)",36.183620574979244,3.111629779515291
+89,perth glory holez,"trueskill.Rating(mu=18.450, sigma=2.986)",18.449997186904806,2.9856981017047834
+90,black wall reach arounds,"trueskill.Rating(mu=30.686, sigma=3.074)",30.686410144934445,3.0739063261859503
+91,whitfords city wristies,"trueskill.Rating(mu=22.730, sigma=2.930)",22.730338931261805,2.929793462247733
+92,city beach groins,"trueskill.Rating(mu=25.922, sigma=8.333)",25.922379745481237,8.333333333333334
+93,fremantle cappuccino strippers,"trueskill.Rating(mu=21.304, sigma=8.333)",21.303602641134074,8.333333333333334
+94,subiaco silkworms,"trueskill.Rating(mu=24.051, sigma=2.772)",24.05098870567543,2.772280620567145
+95,innaloominati,"trueskill.Rating(mu=24.088, sigma=2.693)",24.08757840837971,2.693389621201529
+96,east freo bae blades,"trueskill.Rating(mu=12.474, sigma=2.876)",12.473819054653276,2.8756202658318575
+97,how much wood would a parkwood park if a parkwood could park wood,"trueskill.Rating(mu=26.666, sigma=2.951)",26.666284231275345,2.9512738884457184
+98,perth city puck pirates,"trueskill.Rating(mu=22.023, sigma=2.948)",22.02270246518954,2.9482771063975495
+99,como mo co,"trueskill.Rating(mu=40.070, sigma=2.872)",40.07048360954367,2.8716122097461523
+100,churchlands hellraisers,"trueskill.Rating(mu=38.147, sigma=3.224)",38.146732744983105,3.2241825107067643
+101,stirling from the bottom now we're here,"trueskill.Rating(mu=7.678, sigma=2.966)",7.678066441857615,2.9656803185494147

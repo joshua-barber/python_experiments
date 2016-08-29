@@ -1,0 +1,376 @@
+,IsDraw,Winteam,Lossteam,gameplayed
+0,False,Chick Park,Applecross Dressers,1.0
+1,False,Fremantle Cappuccino Strippers,Cottesloe's Hottest Hoes,1.0
+2,False,Nedlands Yung Puccbois,Dalkeith Dalqueefs,1.0
+3,False,Perth On Heat,Attafail Whales,1.0
+4,True,Bicton Bath Salts,South Perth Puckaneers,1.0
+5,False,Whorebin Grovers,Booragoonbags,1.0
+6,False,Lake Mongrels,Innaloominati,1.0
+7,False,City Beach Groins,Swanbourne Nudists,1.0
+8,False,Mosman Mooseknuckles,Maylands Muthapuckas,1.0
+9,False,Mount Lawless,Inglewood Coldcuts,1.0
+10,False,West Coast Spastic Eagles,Wembley Blue Light Discos,1.0
+11,False,Rosemount Rinsers,Mt Lawley Chai Lattes,1.0
+12,False,Bull Creek Buttchuggers,Como At Me Bro,1.0
+13,False,City Beach Kooks,50 Shades of Graylands,1.0
+14,False,Cotteslowbros,Creepy Crawleys,1.0
+15,False,Ocean Beef,Mullaloozers,1.0
+16,False,Wembley Food Courts,Karrakatta Grim Jobs,1.0
+17,False,Doubleview Double Yewws,Subiaco SIlkworms,1.0
+18,False,Shenton Park Speed Dealers,Freo Fussy Puckers,1.0
+19,True,Hungry Spot Heroes,GMLA Angels,1.0
+20,False,Claremont Cereal Killahs,GMLA Jurassic Pucks,1.0
+21,False,Mt Pleasant Mounties,Perth Glory Holez,1.0
+22,True,Churchlands Hellraisers,Wembley Food Caughts,1.0
+23,False,Greenmount Doom,Balcatta Bandits,1.0
+24,False,Daglish Dhe Moisties,Leederphiles Rolferhockey,1.0
+25,False,Willo Wonkas,Melville Massiv,1.0
+26,False,Dog Swamp Swamp Dogs,North Perth Bald Beavers,1.0
+27,True,Scarbra Streisands,Whitfords City Wristies,1.0
+28,False,GMLA Guardians,Mindarie Molotovs,1.0
+29,False,Como Mo Co,Bicton Banter Lords,1.0
+30,False,Dianella Demons,Kensington Kermits,1.0
+31,False,Hillarys Humpbacks,West Stirling Banjo Breakers,1.0
+32,False,Fremantle Cappuccino Strippers,Applecross Dressers,1.0
+33,False,Perth On Heat,Chick Park,1.0
+34,False,Nedlands Yung Puccbois,Cottesloe's Hottest Hoes,1.0
+35,False,Dalkeith Dalqueefs,Attafail Whales,1.0
+36,False,Swanbourne Nudists,Booragoonbags,1.0
+37,False,GMLA Jurassic Pucks,Whorebin Grovers,1.0
+38,False,North Perth Bald Beavers,Innaloominati,1.0
+39,False,Lake Mongrels,West Coast Spastic Eagles,1.0
+40,False,Balcatta Bandits,Churchlands Hellraisers,1.0
+41,False,Como Mo Co,Willo Wonkas,1.0
+42,False,GMLA Guardians,Bicton Banter Lords,1.0
+43,False,Melville Massiv,Karrakatta Grim Jobs,1.0
+44,False,Wembley Food Caughts,Cotteslowbros,1.0
+45,False,Wembley Food Courts,Daglish Dhe Moisties,1.0
+46,False,Whitfords City Wristies,Leederphiles Rolferhockey,1.0
+47,False,Greenmount Doom,Dog Swamp Swamp Dogs,1.0
+48,False,Mindarie Molotovs,Scarbra Streisands,1.0
+49,False,Doubleview Double Yewws,West Stirling Banjo Breakers,1.0
+50,False,Freo Fussy Puckers,Creepy Crawleys,1.0
+51,False,Bicton Bath Salts,50 Shades of Graylands,1.0
+52,False,Claremont Cereal Killahs,Inglewood Coldcuts,1.0
+53,True,Hungry Spot Heroes,Maylands Muthapuckas,1.0
+54,False,Hillarys Humpbacks,Mullaloozers,1.0
+55,False,Ocean Beef,Subiaco Silkworms,1.0
+56,False,Kensington Kermits,South Perth Puckaneers,1.0
+57,False,Mt Pleasant Mounties,Shenton Park Speed Dealers,1.0
+58,False,Mosman Mooseknuckles,City Beach Kooks,1.0
+59,True,Wembley Blue Light Discos,Mt Lawley Chai Lattes,1.0
+60,False,Bull Creek Buttchuggers,City Beach Groins,1.0
+61,False,Mount Lawless,Rosemount Rinsers,1.0
+62,False,Perth Glory Holez,Como At Me bro,1.0
+63,False,Dianella Demons,GMLA Angels,1.0
+64,False,Applecross Dressers,Dalkeith Dalqueefs,1.0
+65,False,Chick Park,Nedlands Yung Puccbois,1.0
+66,False,Cottesloe's Hottest Hoes,Attafail Whales,1.0
+67,False,Perth On Heat,Fremantle Cappuccino Strippers,1.0
+68,False,West Coast Spastic Eagles,GMLA Jurassic Pucks,1.0
+69,False,Lake Mongrels,Swanbourne Nudists,1.0
+70,False,Innaloominati,City Beach Groins,1.0
+71,False,Wembley Blue Light Discos,Booragoonbags,1.0
+72,False,North Perth Bald Beavers,Whorebin Grovers,1.0
+73,False,Cotteslowbros,Whitfords City Wristies,1.0
+74,False,Bicton Banter Lords,Willo Wonkas,1.0
+75,False,Melville Massiv,Wembley Food Caughts,1.0
+76,False,Como Mo Co,Wembley Food Courts,1.0
+77,False,Leederphiles Rolferhockey,Dog Swamp Swamp Dogs,1.0
+78,False,Dianella Demons,Churchlands Hellraisers,1.0
+79,False,GMLA Guardians,Daglish Dhe Moisties,1.0
+80,True,Balcatta Bandits,Mindarie Molotovs,1.0
+81,True,Scarbra Streisands,Greenmount Doom,1.0
+82,False,Karrakatta Grim Jobs,Shenton Park Speed Dealers,1.0
+83,False,Hungry Spot Heroes,Inglewood Coldcuts,1.0
+84,False,Freo Fussy Puckers,Perth Glory Holez,1.0
+85,False,Hillarys Humpbacks,Ocean Beef,1.0
+86,False,50 Shades of Graylands,Subiaco SIlkworms,1.0
+87,False,GMLA Angels,Maylands Muthapuckas,1.0
+88,False,Bicton Bath Salts,Kensington Kermits,1.0
+89,False,Mount Lawless,Mt Pleasant Mounties,1.0
+90,False,City Beach Kooks,Mullaloozers,1.0
+91,False,Mosman Mooseknuckles,Creepy Crawleys,1.0
+92,False,Claremont Cereal Killahs,South Perth Puckaneers,1.0
+93,True,Doubleview Double Yewws,Bull Creek Buttchuggers,1.0
+94,False,West Stirling Banjo Breakers,Rosemount Rinsers,1.0
+95,False,Como At Me Bro,Mt Lawley Chai Lattes,1.0
+96,True,Booragoonbags,Attafail Whales,1.0
+97,False,Wembley Blue Light Discos,Chick Park,1.0
+98,False,GMLA Jurassic Pucks,Fremantle Cappuccino Strippers,1.0
+99,False,Swanbourne Nudists,Dalkeith Dalqueefs,1.0
+100,False,West Coast Spastic Eagles,Nedlands Yung Puccbois,1.0
+101,False,Whorebin Grovers,Applecross Dressers,1.0
+102,False,City Beach Groins,Cottesloe's Hottest Hoes,1.0
+103,False,Innaloominati,Perth On Heat,1.0
+104,False,North Perth Bald Beavers,Lake Mongrels,1.0
+105,False,Churchlands Hellraisers,Wembley Food Courts,1.0
+106,False,Leederphiles Rolferhockey,Wembley Food Caughts,1.0
+107,False,Bicton Banter Lords,Melville Massiv,1.0
+108,False,Mindarie Molotovs,Whitfords City Wristies,1.0
+109,False,Balcatta Bandits,Dianella Demons,1.0
+110,False,Cotteslowbros,Daglish Dhe Moisties,1.0
+111,False,Como Mo Co,GMLA Guardians,1.0
+112,False,Greenmount Doom,Willo Wonkas,1.0
+113,False,Scarbra Streisands,Dog Swamp Swamp Dogs,1.0
+114,False,Karrakatta Grim Jobs,Mount Lawless,1.0
+115,False,Mosman Mooseknuckles,Bicton Bath Salts,1.0
+116,False,Maylands Muthapuckas,Rosemount Rinsers,1.0
+117,True,Freo Fussy Puckers,Bull Creek Buttchuggers,1.0
+118,False,Inglewood Coldcuts,Mt Lawley Chai Lattes,1.0
+119,False,Claremont Cereal Killahs,Kensington Kermits,1.0
+120,False,Hungry Spot Heroes,Creepy Crawleys,1.0
+121,False,South Perth Puckaneers,Como At Me Bro,1.0
+122,False,Ocean Beef,West Stirling Banjo Breakers,1.0
+123,False,Mt Pleasant Mounties,Mullaloozers,1.0
+124,False,City Beach Kooks,Doubleview Double Yewws,1.0
+125,False,Shenton Park Speed Dealers,Subiaco Silkworms,1.0
+126,False,GMLA Angels,Perth Glory Holez,1.0
+127,False,Hillarys Humpbacks,50 Shades of Graylands,1.0
+128,False,Cottesloe's Hottest Hoes,Applecross Dressers,1.0
+129,False,Chick Park,Attafail Whales,1.0
+130,False,Nedlands Yung Puccbois,Fremantle Cappuccino Strippers,1.0
+131,False,Perth On Heat,Dalkeith Dalqueefs,1.0
+132,False,Mt Lawley Chai Lattes,Booragoonbags,1.0
+133,False,City Beach Groins,Lake Mongrels,1.0
+134,False,GMLA Jurassic Pucks,Wembley Blue Light Discos,1.0
+135,False,Innaloominati,West Coast Spastic Eagles,1.0
+136,False,Swanbourne Nudists,Whorebin Grovers,1.0
+137,False,North Perth Bald Beavers,Rosemount Rinsers,1.0
+138,False,Greenmount Doom,Whitfords City Wristies,1.0
+139,False,Bicton Banter Lords,Balcatta Bandits,1.0
+140,False,Mosman Mooseknuckles,Wembley Food Caughts,1.0
+141,False,Wembley Food Courts,Cotteslowbros,1.0
+142,False,GMLA Guardians,Dog Swamp Swamp Dogs,1.0
+143,False,Daglish Dhe Moisties,Churchlands Hellraisers,1.0
+144,False,Como Mo Co,Leederphiles Rolferhockey,1.0
+145,False,Mount Lawless,Dianella Demons,1.0
+146,False,Scarbra Streisands,City Beach Kooks,1.0
+147,False,Mindarie Molotovs,Willo Wonkas,1.0
+148,False,Melville Massiv,Mt Pleasant Mounties,1.0
+149,False,Mullaloozers,Claremont Cereal Killahs,1.0
+150,False,Freo Fussy Puckers,Como At Me Bro,1.0
+151,False,Bicton Bath Salts,Bull Creek Buttchuggers,1.0
+152,False,50 Shades of Graylands,Creepy Crawleys,1.0
+153,False,Hillarys Humpbacks,Doubleview Double Yewws,1.0
+154,False,Karrakatta Grim Jobs,Hungry Spot Heroes,1.0
+155,False,GMLA Angels,Inglewood Coldcuts,1.0
+156,False,Kensington Kermits,Maylands Muthapuckas,1.0
+157,False,West Stirling Banjo Breakers,Shenton Park Speed Dealers,1.0
+158,True,Subiaco SIlkworms,Perth Glory Holez,1.0
+159,False,Ocean Beef,South Perth Puckaneers,1.0
+160,False,Chick Park,Cottesloe's Hottest Hoes,1.0
+161,False,Fremantle Cappuccino Strippers,Dalkeith Dalqueefs,1.0
+162,True,Perth On Heat,Applecross Dressers,1.0
+163,False,Nedlands Yung Puccbois,Attafail Whales,1.0
+164,False,50 Shades of Graylands,City Beach Groins,1.0
+165,False,Como At Me Bro,Booragoonbags,1.0
+166,False,Wembley Blue Light Discos,Swanbourne Nudists,1.0
+167,False,Bull Creek Buttchuggers,Whorebin Grovers,1.0
+168,False,Innaloominati,GMLA Jurassic Pucks,1.0
+169,False,Lake Mongrels,Creepy Crawleys,1.0
+170,False,North Perth Bald Beavers,Mt Lawley Chai Lattes,1.0
+171,False,Wembley Food Caughts,Hillarys Humpbacks,1.0
+172,False,Wembley Food Courts,West Stirling Banjo Breakers,1.0
+173,False,Balcatta Bandits,Cotteslowbros,1.0
+174,False,Dianella Demons,Daglish Dhe Moisties,1.0
+175,False,Dog Swamp Swamp Dogs,City Beach Kooks,1.0
+176,False,Churchlands Hellraisers,Leederphiles Rolferhockey,1.0
+177,False,Bicton Banter Lords,Mount Lawless,1.0
+178,False,Como Mo Co,Greenmount Doom,1.0
+179,False,GMLA Guardians,Willo Wonkas,1.0
+180,False,Ocean Beef,Whitfords City Wristies,1.0
+181,False,Melville Massiv,Scarbra Streisands,1.0
+182,True,Mindarie Molotovs,Mosman Mooseknuckles,1.0
+183,False,Bicton Bath Salts,Freo Fussy Puckers,1.0
+184,False,Hungry Spot Heroes,Doubleview Double Yewws,1.0
+185,False,Karrakatta Grim Jobs,Claremont Cereal Killahs,1.0
+186,False,Kensington Kermits,Inglewood Coldcuts,1.0
+187,False,West Coast Spastic Eagles,Subiaco Silkworms,1.0
+188,False,Mullaloozers,Shenton Park Speed Dealers,1.0
+189,False,Mt Pleasant Mounties,GMLA Angels,1.0
+190,False,South Perth Puckaneers,Rosemount Rinsers,1.0
+191,False,Maylands Muthapuckas,Perth Glory Holez,1.0
+192,False,Chick Park,Dalkeith Dalqueefs,1.0
+193,False,Fremantle Cappuccino Strippers,Attafail Whales,1.0
+194,False,Nedlands Yung Puccbois,Applecross Dressers,1.0
+195,False,Perth On Heat,Cottesloe's Hottest Hoes,1.0
+196,False,City Beach Groins,Booragoonbags,1.0
+197,False,Lake Mongrels,GMLA Jurassic Pucks,1.0
+198,False,Innaloominati,Whorebin Grovers,1.0
+199,False,North Perth Bald Beavers,Wembley Blue Light Discos,1.0
+201,False,Mount Lawless,Balcatta Bandits,1.0
+202,False,Melville Massiv,City Beach Kooks,1.0
+203,False,Como Mo Co,Cotteslowbros,1.0
+204,False,Daglish Dhe Moisties,Dog Swamp Swamp Dogs,1.0
+205,False,Dianella Demons,Willo Wonkas,1.0
+206,False,Bicton Banter Lords,Mindarie Molotovs,1.0
+207,False,Scarbra Streisands,Leederphiles Rolferhockey,1.0
+208,False,Greenmount Doom,Churchlands Hellraisers,1.0
+209,False,Wembley Food Courts,Wembley Food Caughts,1.0
+210,True,GMLA Angels,GMLA Guardians,1.0
+211,False,Mullaloozers,Whitfords City Wristies,1.0
+212,False,Doubleview Double Yewws,Freo Fussy Puckers,1.0
+213,False,West Stirling Banjo Breakers,Creepy Crawleys,1.0
+214,False,Rosemount Rinsers,Subiaco SIlkworms,1.0
+215,True,South Perth Puckaneers,Perth Glory Holez,1.0
+216,False,Mosman Mooseknuckles,West Coast Spastic Eagles,1.0
+217,False,Maylands Muthapuckas,Mt Lawley Chai Lattes,1.0
+218,False,Ocean Beef,Shenton Park Speed Dealers,1.0
+219,False,Mt Pleasant Mounties,Bicton Bath Salts,1.0
+220,False,Inglewood Coldcuts,Bull Creek Buttchuggers,1.0
+221,False,Hillarys Humpbacks,Hungry Spot Heroes,1.0
+222,False,Claremont Cereal Killahs,50 Shades of Graylands,1.0
+223,False,Karrakatta Grim Jobs,Kensington Kermits,1.0
+224,False,Booragoonbags,Applecross Dressers,1.0
+225,True,Wembley Blue Light Discos,Lake Mongrels,1.0
+226,False,North Perth Bald Beavers,GMLA Jurassic Pucks,1.0
+227,False,Rosemount Rinsers,Hungry Spot Heroes,1.0
+228,False,City Beach Groins,Mt Lawley Chai Lattes,1.0
+229,False,Fremantle Cappuccino Strippers,Chick Park,1.0
+230,True,Subiaco SIlkworms,Creepy Crawleys,1.0
+231,False,Maylands Muthapuckas,Inglewood Coldcuts,1.0
+232,False,Mount Lawless,Wembley Food Courts,1.0
+233,True,Nedlands Yung Puccbois,Perth On Heat,1.0
+234,False,Cottesloe's Hottest Hoes,Dalkeith Dalqueefs,1.0
+235,False,Karrakatta Grim Jobs,Wembley Food Caughts,1.0
+236,False,Dog Swamp Swamp Dogs,Churchlands Hellraisers,1.0
+237,False,Innaloominati,Attafail Whales,1.0
+238,False,50 Shades of Graylands,Swanbourne Nudists,1.0
+239,False,Como At Me Bro,Whorebin Grovers,1.0
+240,False,Balcatta Bandits,Ocean Beef,1.0
+241,False,Bicton Banter Lords,Bicton Bath Salts,1.0
+242,False,Claremont Cereal Killahs,City Beach Kooks,1.0
+243,False,Como Mo Co,Mt Pleasant Mounties,1.0
+244,True,Scarbra Streisands,Cotteslowbros,1.0
+245,False,Mosman Mooseknuckles,Daglish Dhe Moisties,1.0
+246,True,Mullaloozers,Dianella Demons,1.0
+247,False,GMLA Guardians,West Stirling Banjo Breakers,1.0
+248,False,Greenmount Doom,Kensington Kermits,1.0
+249,False,Mindarie Molotovs,Leederphiles Rolferhockey,1.0
+251,False,Willo Wonkas,Bull Creek Buttchuggers,1.0
+252,False,Doubleview Double Yewws,Whitfords City Wristies,1.0
+253,False,GMLA Angels,South Perth Puckaneers,1.0
+254,False,Hillarys Humpbacks,Perth Glory Holez,1.0
+255,False,Shenton Park Speed Dealers,West Coast Spastic Eagles,1.0
+256,False,Booragoonbags,Fremantle Cappuccino Strippers,1.0
+257,False,GMLA Jurassic Pucks,Cottesloe's Hottest Hoes,1.0
+258,False,Innaloominati,Chick Park,1.0
+259,False,City Beach Groins,Nedlands Yung Puccbois,1.0
+260,False,Whorebin Grovers,Dalkeith Dalqueefs,1.0
+261,False,Swanbourne Nudists,Applecross Dressers,1.0
+262,False,Wembley Blue Light Discos,Perth On Heat,1.0
+263,False,Como At Me Bro,Attafail Whales,1.0
+264,False,Lake Mongrels,City Beach Kooks,1.0
+265,True,Perth Glory Holez,Creepy Crawleys,1.0
+266,False,Mosman Mooseknuckles,North Perth Bald Beavers,1.0
+267,False,Daglish Dhe Moisties,Karrakatta Grim Jobs,1.0
+268,False,Wembley Food Caughts,Mt Pleasant Mounties,1.0
+269,False,Ocean Beef,Maylands Muthapuckas,1.0
+270,False,Wembley Food Courts,Mullaloozers,1.0
+271,False,Balcatta Bandits,Hillarys Humpbacks,1.0
+272,False,Churchlands Hellraisers,Claremont Cereal Killahs,1.0
+273,False,Dog Swamp Swamp Dogs,Hungry Spot Heroes,1.0
+274,False,Willo Wonkas,Bicton Bath Salts,1.0
+276,False,Whitfords City Wristies,West Coast Spastic Eagles,1.0
+277,False,Kensington Kermits,Bull Creek Buttchuggers,1.0
+278,False,50 Shades of Graylands,Shenton Park Speed Dealers,1.0
+279,False,Greenmount Doom,Dianella Demons,1.0
+280,False,GMLA Guardians,Leederphiles Rolferhockey,1.0
+281,False,Melville Massiv,Doubleview Double Yewws,1.0
+282,False,Mindarie Molotovs,Mount Lawless,1.0
+283,False,Como Mo Co,South Perth Puckaneers,1.0
+284,False,Bicton Banter Lords,Rosemount Rinsers,1.0
+285,False,Scarbra Streisands,Subiaco Silkworms,1.0
+286,False,Inglewood Coldcuts,West Stirling Banjo Breakers,1.0
+287,False,GMLA Angels,Mt Lawley Chai Lattes,1.0
+288,False,Mosman Mooseknuckles,Ocean Beef,1.0
+289,False,Melville Massiv,Bicton Bath Salts,1.0
+290,False,Whorebin Grovers,Fremantle Cappuccino Strippers,1.0
+291,False,West Coast Spastic Eagles,Attafail Whales,1.0
+292,True,Applecross Dressers,Dalkeith Dalqueefs,1.0
+293,False,Swanbourne Nudists,Cottesloe's Hottest Hoes,1.0
+294,False,Nedlands Yung Puccbois,Booragoonbags,1.0
+295,False,GMLA Jurassic Pucks,Chick Park,1.0
+296,True,Perth On Heat,City Beach Groins,1.0
+297,False,Hillarys Humpbacks,Whitfords City Wristies,1.0
+298,False,Wembley Food Caughts,Wembley Blue Light Discos,1.0
+299,False,North Perth Bald Beavers,Claremont Cereal Killahs,1.0
+300,False,Hungry Spot Heroes,Wembley Food Courts,1.0
+301,False,Rosemount Rinsers,Innaloominati,1.0
+302,False,Willo Wonkas,Como At Me Bro,1.0
+303,False,GMLA Angels,Mount Lawless,1.0
+305,False,Lake Mongrels,Doubleview Double Yewws,1.0
+306,False,Balcatta Bandits,Como Mo Co,1.0
+307,False,Bicton Banter Lords,Scarbra Streisands,1.0
+308,False,Churchlands Hellraisers,Cotteslowbros,1.0
+309,False,Daglish Dhe Moisties,City Beach Kooks,1.0
+310,False,GMLA Guardians,Karrakatta Grim Jobs,1.0
+311,False,Leederphiles Rolferhockey,Greenmount Doom,1.0
+312,False,Mindarie Molotovs,Dog Swamp Swamp Dogs,1.0
+313,False,Subiaco SIlkworms,Bull Creek Buttchuggers,1.0
+315,False,West Stirling Banjo Breakers,50 Shades of Graylands,1.0
+318,False,Mt Pleasant Mounties,Kensington Kermits,1.0
+319,False,Shenton Park Speed Dealers,Mt Lawley Chai Lattes,1.0
+320,False,Booragoonbags,Chick Park,1.0
+321,False,Ocean Beef,Inglewood Coldcuts,1.0
+322,False,GMLA Guardians,Scarbra Streisands,1.0
+323,False,North Perth Bald Beavers,Hungry Spot Heroes,1.0
+324,False,Kensington Kermits,Rosemount Rinsers,1.0
+325,False,Wembley Food Caughts,City Beach Groins,1.0
+326,False,Bicton Banter Lords,Mosman Mooseknuckles,1.0
+327,False,Churchlands Hellraisers,Hillarys Humpbacks,1.0
+328,False,Balcatta Bandits,Claremont Cereal Killahs,1.0
+329,False,Como Mo Co,Bicton Bath Salts,1.0
+330,False,Dog Swamp Swamp Dogs,Cotteslowbros,1.0
+331,False,Bull Creek Buttchuggers,Attafail Whales,1.0
+332,False,Daglish Dhe Moisties,Innaloominati,1.0
+333,False,Dianella Demons,South Perth Puckaneers,1.0
+334,False,Mindarie Molotovs,Greenmount Doom,1.0
+335,False,Fremantle Cappuccino Strippers,Dalkeith Dalqueefs,1.0
+336,False,50 Shades of Graylands,Perth Glory Holez,1.0
+337,False,Mt Pleasant Mounties,Leederphiles Rolferhockey,1.0
+339,False,Melville Massiv,GMLA Angels,1.0
+340,False,West Coast Spastic Eagles,Swanbourne Nudists,1.0
+341,False,Whorebin Grovers,Perth On Heat,1.0
+342,False,West Stirling Banjo Breakers,Wembley Blue Light Discos,1.0
+343,False,Como At Me Bro,Creepy Crawleys,1.0
+344,False,Willo Wonkas,Maylands Muthapuckas,1.0
+345,False,Mullaloozers,Subiaco Silkworms,1.0
+346,False,Cottesloe's Hottest Hoes,Applecross Dressers,1.0
+347,False,Mount Lawless,Lake Mongrels,1.0
+348,False,Mt Lawley Chai Lattes,Nedlands Yung Puccbois,1.0
+349,False,City Beach Kooks,GMLA Jurassic Pucks,1.0
+350,False,Whitfords City Wristies,Shenton Park Speed Dealers,1.0
+351,False,Doubleview Double Yewws,Wembley Food Courts,1.0
+352,False,Fremantle Cappuccino Strippers,Applecross Dressers,1.0
+353,False,Kensington Kermits,Chick Park,1.0
+354,False,Dalkeith Dalqueefs,Cottesloe's Hottest Hoes,1.0
+355,True,Nedlands Yung Puccbois,Perth On Heat,1.0
+356,False,Churchlands Hellraisers,Doubleview Double Yewws,1.0
+357,False,Balcatta Bandits,Wembley Food Courts,1.0
+358,False,Mt Pleasant Mounties,Rosemount Rinsers,1.0
+359,False,Como Mo Co,Como At Me Bro,1.0
+360,False,Bicton Banter Lords,Greenmount Doom,1.0
+361,False,Inglewood Coldcuts,Bicton Bath Salts,1.0
+362,False,Ocean Beef,GMLA Jurassic Pucks,1.0
+363,False,City Beach Groins,City Beach Kooks,1.0
+364,False,Claremont Cereal Killahs,Innaloominati,1.0
+365,False,GMLA Guardians,Mosman Mooseknuckles,1.0
+366,False,Maylands Muthapuckas,Karrakatta Grim Jobs,1.0
+367,False,Melville Massiv,Mullaloozers,1.0
+368,False,Bull Creek Buttchuggers,Creepy Crawleys,1.0
+370,False,Willo Wonkas,South Perth Puckaneers,1.0
+371,True,Whitfords City Wristies,West Stirling Banjo Breakers,1.0
+372,True,Scarbra Streisands,Wembley Food Caughts,1.0
+373,True,Cotteslowbros,Hillarys Humpbacks,1.0
+374,True,Lake Mongrels,Daglish Dhe Moisties,1.0
+375,True,Dog Swamp Swamp Dogs,Dianella Demons,1.0
+376,False,Mount Lawless,Leederphiles Rolferhockey,1.0
+377,False,Mindarie Molotovs,Hungry Spot Heroes,1.0
+378,False,North Perth Bald Beavers,Booragoonbags,1.0
+379,False,Swanbourne Nudists,Attafail Whales,1.0
+380,False,GMLA Angels,Wembley Blue Light Discos,1.0
+381,False,West Coast Spastic Eagles,Whorebin Grovers,1.0
+382,False,Subiaco Silkworms,Mt Lawley Chai Lattes,1.0
+384,False,,,1.0

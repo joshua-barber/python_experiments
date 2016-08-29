@@ -1,0 +1,17 @@
+EXTRA_ARGS='
+--label provider=virtualbox
+
+'
+CACERT=/var/lib/boot2docker/ca.pem
+DOCKER_HOST='-H tcp://0.0.0.0:2376'
+DOCKER_STORAGE=aufs
+DOCKER_TLS=auto
+SERVERKEY=/var/lib/boot2docker/server-key.pem
+SERVERCERT=/var/lib/boot2docker/server.pem
+
+export http_proxy=http://barbejo:EYPassword2017@auweb.au.anz.ey.net:8080
+export https_proxy=https://barbejo:EYPassword2017@auweb.au.anz.ey.net:8443
+
+mkdir -p /home/docker/data
+mount -t vboxsf -o uid=1000,gid=50 Docker_Transfer /home/docker/data
+cp -f /home/docker/data/profile /var/lib/boot2docker/
