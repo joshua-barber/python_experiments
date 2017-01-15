@@ -3,6 +3,11 @@
   <head>
     <meta charset="utf-8">
     <title>{{ title if title else "Bokeh Plot" }}</title>
+    <link rel="stylesheet" href="./static/lib/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./static/lib/css/keen-dashboards.css">
+    <link rel="stylesheet" href="./static/lib/css/dc.min.css">
+    <link rel="stylesheet" href="./static/lib/css/leaflet.css">
+    <link rel="stylesheet" href="./static/css/custom.css">
     {{ bokeh_css }}
     {{ bokeh_js }}
     <style>
@@ -29,7 +34,127 @@
         <li>Click the "Download" button to export data to a CSV file.</li>
       </ul>
     </div>
-    {{ plot_div|indent(8) }}
-    {{ plot_script|indent(8) }}
+    <body class="application">
+  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="./">Teach me how to Bokeh.. teach me teach me how to Bokeh..</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+
+    <div class="row">
+
+      <div class="col-sm-6">
+        <div class="row">
+
+          <!-- Time Chart --> 
+          <div class="col-sm-12">
+            <div class="chart-wrapper">
+              <div class="chart-title">
+                Time of event
+              </div>
+              <div class="chart-stage">
+                <div id="time-chart"></div>
+              </div>
+            </div>
+          </div>
+          <!-- Time Chart --> 
+
+          <!-- Brand -->
+          <div class="col-sm-6">
+            <div class="chart-wrapper">
+              <div class="chart-title">
+                Phone Brand
+              </div>
+              <div class="chart-stage">
+                <div id="phone-brand-row-chart"></div>
+              </div>
+            </div>
+          </div>
+          <!-- Brand -->
+
+
+          <div class="col-sm-6">
+
+            <div class="row">
+            <!-- Gender -->
+            <div class="col-sm-12">
+              <div class="chart-wrapper">
+                <div class="chart-title">
+                  Owner gender
+                </div>
+                <div class="chart-stage">
+                  <div id="gender-row-chart"></div>
+                </div>
+              </div>
+            </div>
+            </div>
+            <!-- Gender -->
+
+            <!-- Age Segment -->
+            <div class="row">
+            <div class="col-sm-12">
+              <div class="chart-wrapper">
+                <div class="chart-title">
+                  Owner agessz
+                </div>
+                <div class="chart-stage">
+                  <div id="age-segment-row-chart"></div>
+                </div>
+              </div>
+            </div>
+            <!-- Age Segment -->
+          </div>
+          </div>
+
+
+        </div>
+      </div>
+
+
+      <div class="col-sm-4">
+
+        <div class="row">
+          <!-- Map -->  
+          <div class="col-sm-12"> 
+            <div class="chart-wrapper">
+              <div class="chart-title">
+                Mobile activity heatmapping
+              </div>
+              <div class="chart-stage">
+                {{ plot_div|indent(8) }}
+                
+              </div>
+            </div>
+          </div>
+          <!-- Map -->  
+        </div>
+
+        <div class="row">
+          <!-- Number of events -->  
+          <div class="col-sm-12"> 
+            <div class="chart-wrapper">
+              <div class="chart-title">
+                Number of Events
+              </div>
+              <div class="chart-stage">
+                <div id="number-records-nd"></div>
+              </div>
+            </div>
+          </div>
+          <!-- Number of events -->  
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+  {{ plot_script|indent(8) }}
+  <hr>
+  <p class="small text-muted">Dashboard format taken from <a href="https://keen.io">Keen IO</a></p>
   </body>
 </html>

@@ -1,6 +1,0 @@
-PostgreSQL:
-    host: my-postgres-db-instance.cdu2zcgn1k7y.ap-southeast-2.rds.amazonaws.com
-    port: 5432
-    dbname: development
-    user: db_user
-    password: Password1
