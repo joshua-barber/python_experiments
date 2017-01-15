@@ -2,6 +2,8 @@
 
 # third-party imports
 from flask import Flask
+from flask_login import LoginManager
+from flask_migrate import Migrate
 from flask_sqlalchemy import SQLAlchemy
 
 # local imports
@@ -9,6 +11,7 @@ from config import app_config
 
 # db variable initialization
 db = SQLAlchemy()
+login_manager = LoginManager()
 
 def create_app(config_name):
     app = Flask(__name__, instance_relative_config=True)
@@ -16,9 +19,25 @@ def create_app(config_name):
     app.config.from_pyfile('config.py')
     db.init_app(app)
 
-    # temporary route
-    @app.route('/')
-    def hello_world():
-        return 'Hello, World!'
+    # login manager intiialisation and setup
+    login_manager.init_app(app)
+    login_manager.login_message = "You must be logged in to access this page."
+    login_manager.login_view = "auth.login"
+
+    #'migrate' functionality to allow CRUD access to db
+    migrate = Migrate(app, db)
+    
+    #begin modelling (lmao)
+    from app import models
+
+    #all views for this blueprint will be accessed in the browser with the url prefix admin
+    from .admin import admin as admin_blueprint
+    app.register_blueprint(admin_blueprint, url_prefix='/admin')
+
+    from .auth import auth as auth_blueprint
+    app.register_blueprint(auth_blueprint)
+
+    from .home import home as home_blueprint
+    app.register_blueprint(home_blueprint)
 
     return app
