@@ -3,7 +3,7 @@
 sudo apt-get install postgresql-9.4
 
 #pip install modules
-pip install flask-login flask-migrate Flask-WTF flask-bootstrap
+pip install flask-login flask-migrate Flask-WTF flask-bootstrap Flask-Testing
 
 #Connect to db: psql -h [host] [dbname] [user]
 psql -h my-postgres-db-instance.cdu2zcgn1k7y.ap-southeast-2.rds.amazonaws.com development db_user

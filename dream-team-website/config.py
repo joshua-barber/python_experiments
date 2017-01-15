@@ -6,6 +6,8 @@ class Config(object):
     """
 
     # Put any configurations here that are common across all environments
+    TESTING = False
+    DEBUG = True
 
 class DevelopmentConfig(Config):
     """
@@ -13,8 +15,6 @@ class DevelopmentConfig(Config):
     More Flask: http://flask.pocoo.org/docs/0.11/config/
     More SqlAlchemy: http://flask-sqlalchemy.pocoo.org/2.1/config/
     """
-    TESTING = False
-    DEBUG = True
     SQLALCHEMY_ECHO = True
 
 class ProductionConfig(Config):
@@ -24,7 +24,15 @@ class ProductionConfig(Config):
 
     DEBUG = False
 
+class TestingConfig(Config):
+    """
+    Testing configurations
+    """
+
+    TESTING = True
+
 app_config = {
     'development': DevelopmentConfig,
-    'production': ProductionConfig
+    'production': ProductionConfig,
+    'testing': TestingConfig
     }
