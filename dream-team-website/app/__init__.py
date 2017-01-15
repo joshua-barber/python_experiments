@@ -1,6 +1,7 @@
 # app/__init__.py
 
 # third-party imports
+from flask_bootstrap import Bootstrap
 from flask import Flask
 from flask_login import LoginManager
 from flask_migrate import Migrate
@@ -17,6 +18,9 @@ def create_app(config_name):
     app = Flask(__name__, instance_relative_config=True)
     app.config.from_object(app_config[config_name])
     app.config.from_pyfile('config.py')
+
+     #Allow ask to flask bootstrap for our templates
+    Bootstrap(app)
     db.init_app(app)
 
     # login manager intiialisation and setup
@@ -26,7 +30,7 @@ def create_app(config_name):
 
     #'migrate' functionality to allow CRUD access to db
     migrate = Migrate(app, db)
-    
+
     #begin modelling (lmao)
     from app import models
 
