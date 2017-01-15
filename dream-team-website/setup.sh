@@ -24,3 +24,11 @@ flask db upgrade
 
 #review dreamteam database as dt_admin
 psql -h my-postgres-db-instance.cdu2zcgn1k7y.ap-southeast-2.rds.amazonaws.com dreamteam_db dt_admin
+
+#Use flask shell to add an admin user to the database
+flask shell
+from app.models import Employee
+from app import db
+admin = Employee(email="admin@admin.com",username="admin",password="admin2016",is_admin=True)
+db.session.add(admin)
+db.session.commit()
