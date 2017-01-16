@@ -17,10 +17,10 @@ GRANT ALL PRIVILEGES ON DATABASE dreamteam_db TO dt_admin;
 export FLASK_CONFIG=development
 export FLASK_APP=run.py
 
-#begin flask migration operaions
-flask db init
-flask db migrate
-flask db upgrade
+#begin flask migration operations - migrate & upgrade should be re-run after model changes
+flask db init #creates a migrations directory for Aemblic
+flask db migrate #generates initial migratiib config
+flask db upgrade #applies the migration to the database
 
 #review dreamteam database as dt_admin
 psql -h my-postgres-db-instance.cdu2zcgn1k7y.ap-southeast-2.rds.amazonaws.com dreamteam_db dt_admin
