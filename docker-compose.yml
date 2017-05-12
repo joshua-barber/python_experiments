@@ -1,0 +1,8 @@
+python3_env:
+  build: .
+  command: bash
+  container_name: py3
+  ports: 
+    - 8000:8000
+  volumes: 
+    - .:/home/jeb
